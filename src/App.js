@@ -1,6 +1,5 @@
 import React from 'react';
 import './style.css';
-import { firestore } from './firebase.js';
 
 export default function App() {
   return (
